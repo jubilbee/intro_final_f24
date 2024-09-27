@@ -33,3 +33,6 @@ Temporary Items
 
 # Exclude workspace-specific settings
 .vscode/cspell.json
+
+# profile image
+profile.png
